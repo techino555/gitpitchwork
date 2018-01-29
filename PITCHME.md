@@ -2,14 +2,14 @@
 
 ## This is sample by hidenovuk
 
----
++++
 
 
 **お肉食べたい**
 **お刺身食べたい**
 
 
----
++++
 
 
 #### 今日はお休み
@@ -18,7 +18,7 @@
 
 ![sabori](/images/business_sabori_pc.png)
 
----
++++
 
 I said 
 
@@ -29,7 +29,7 @@ I said
 
 `echo`
 
----
++++
 
 
-# おわり<(_ _)>
+# おわり<(--)>
