@@ -38,11 +38,11 @@ I said
   "labels": ["January"," February"," March"," April"," May"," June"," July"],
   "datasets": [
    {
-    "data":[65,59,80,81,56],
+    "data":[65,59,80,81,56,66,11],
     "label":"My first dataset","backgroundColor":"rgba(20,220,220,.8)"
    },
    {
-    "data":[28,48,40,19,86],
+    "data":[28,48,40,19,86,53,22],
     "label":"My second dataset","backgroundColor":"rgba(220,120,120,.8)"
    }
   ]
