@@ -1,11 +1,10 @@
-
 # This is sample by hidenovuk
 
 ---
 
 
-**お肉食べたい**
-**お刺身食べたい**
+**お肉食べたい:smile:**
+**お刺身食べたい:smile:**
 
 
 ---
