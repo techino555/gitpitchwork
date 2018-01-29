@@ -18,7 +18,8 @@
 
 ![sabori](/images/business_sabori_pc.png)
 
-+++
+
+---
 
 I said 
 
@@ -27,9 +28,9 @@ I said
 [Gitlab](http://gitlab.com)
 
 
-`echo`
+`echo beaf`
 
-+++
+---
 
 
 # おわり<(--)>
