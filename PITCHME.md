@@ -5,7 +5,7 @@
 
 **お肉食べたい @fa[thumbs-up]**
 
-**お刺身食べたい @fa[fa-bolt]**
+**お刺身食べたい @fa[flash]**
 
 
 
