@@ -1,5 +1,5 @@
 ### Hello！
-##This is sample by hidenovuk
+## This is sample by hidenovuk
 
 ---
 
