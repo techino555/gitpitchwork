@@ -1,6 +1,6 @@
-# Hello！
 
-## This is sample by hidenovuk
+
+@title[This is sample by hidenovuk]
 
 ---
 
