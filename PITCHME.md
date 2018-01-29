@@ -31,4 +31,8 @@ I said
 ---
 
 
+My first dataset, 65, 59, 80, 81, 56 My second dataset, 28, 48, 19, 86, 27, 90
+
+---
+
 # おわり<(--)>
