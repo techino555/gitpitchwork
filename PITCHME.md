@@ -3,12 +3,12 @@
 ---
 
 
-**お肉食べたい @fa[thumbs-up fa-2x]**
+**お肉食べたい @fa[thumbs-up fa-2x fa-pink]**
 
 **お刺身食べたい @fa[flash]**
 
 
-@fa[thumbs-up fa-size]
+@fa[thumbs-up fa-size fa-red]
 
 ---
 
