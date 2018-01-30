@@ -14,7 +14,7 @@
 
 
 #### 今日はお休み
-* gitpitch「:smiley:」
+* gitpitch
 * kubernetes
 
 ![sabori](/images/business_sabori_pc.png)
@@ -25,8 +25,7 @@
 I said 
 
 > I want eat pork
-
-[Gitlab](http://gitlab.com)
+> hope so chocolate too
 
 
 `echo beaf`
