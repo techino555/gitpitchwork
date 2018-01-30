@@ -14,7 +14,7 @@
 
 
 #### 今日はお休み
-* gitpitch「:smailey:」
+* gitpitch「:smiley:」
 * kubernetes
 
 ![sabori](/images/business_sabori_pc.png)
