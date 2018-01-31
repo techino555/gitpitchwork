@@ -16,6 +16,8 @@
 #### 今日はお休み
 * gitpitch
 * kubernetes
+* cut
+* dockor
 
 ![sabori](/images/business_sabori_pc.png)
 
