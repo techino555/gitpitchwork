@@ -32,6 +32,11 @@ I said
 
 `echo beaf`
 
+<div style="border-style:solid ; border-
+width: 1px; padding: 10px 5px 10px 20px;
+border-color:red; color:green; background-
+color:lavender;">枠内の色々</div>
+
 ---
 
 
