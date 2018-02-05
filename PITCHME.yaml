@@ -1,5 +1,5 @@
 theme : sky
-transition : zoom
+transition : concave
 charts : true
 footnote : "hidenovuk"
 published : true
