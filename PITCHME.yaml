@@ -1,4 +1,5 @@
 theme : sky
+transition : fade
 charts : true
 footnote : "hidenovuk"
 published : true
