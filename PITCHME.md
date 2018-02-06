@@ -70,7 +70,8 @@ color:lavender;">枠内の色々</div>
 
 ---
 
-#### handlerだけのroleを書くことで他のroleからきれいにイベントを起動可能。
+#### handlerだけのroleを書くことで他のroleから
+#### きれいにイベントを起動可能。
 
 ---
 
