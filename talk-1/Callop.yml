@@ -1,0 +1,8 @@
+- name say operation
+  hosts : web
+  become : yes
+  gather_facts : false
+  connection : local
+  roles :
+     - sayop
+     
