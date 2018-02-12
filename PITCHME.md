@@ -21,7 +21,6 @@
 
 ![sabori](/images/business_sabori_pc.png)
 
-
 ---
 
 I said 
@@ -38,8 +37,6 @@ color:red; color:green; background-
 color:lavender;">枠内の色々</div>
 
 ---
-
-
 <canvas data-chart="line">
 <!--
 {
@@ -60,13 +57,12 @@ color:lavender;">枠内の色々</div>
 }
 -->
 </canvas>
-
 ---
 
 - 12 
-- 15 |
-- 18 
-- 21 |
+- hey |
+- hoo |
+- boys and girls |
 - 24
 
 ---
@@ -80,9 +76,7 @@ color:lavender;">枠内の色々</div>
 |3|4|
 
 ---
-
 ![](http://imgcc.naver.jp/kaze/mission_anm/USER/20161109/69/6182469/99/480x270x4405fd30e409c24e0bc6cc61.gif)
-
 ---
 
 # おわり<(--)>
