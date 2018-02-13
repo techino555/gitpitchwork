@@ -83,5 +83,11 @@ color:lavender;">枠内の色々</div>
 
 <img src="http://imgcc.naver.jp/kaze/mission_anm/USER/20161109/69/6182469/99/480x270x4405fd30e409c24e0bc6cc61.gif" width=120%>
 ---
+### screen to gif test
+
+<img src="/images/testset2.gif" width=120%>
+
+
+---
 
 # おわり<(--)>
