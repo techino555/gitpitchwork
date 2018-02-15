@@ -8,7 +8,7 @@
 **お刺身食べたい @fa[flash]**
 
 
-@fa[thumbs-up]
+@fa[thumbs-up fa-lg]
 
 @fa[align-center]
 
