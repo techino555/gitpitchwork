@@ -10,7 +10,7 @@
 
 @fa[thumbs-up]
 
-@fa[f35a]
+@fa[arrow-to-bottom]
 
 ---
 
