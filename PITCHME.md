@@ -10,7 +10,7 @@
 
 @fa[thumbs-up]
 
-@fa[arrow-to-bottom]
+@fa[align-center]
 
 ---
 
