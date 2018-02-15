@@ -10,6 +10,8 @@
 
 @fa[thumbs-up]
 
+@fa[f35a]
+
 ---
 
 
