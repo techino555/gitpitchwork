@@ -86,7 +86,9 @@ color:lavender;">枠内の色々</div>
 ## screen to gif test
 
 
-<img src="/images/testset2.gif" width=75%>
+<img src="/images/testset2.gif" width=75%>そ
 ---
 
+！[]
+---
 # おわり<(--)>
