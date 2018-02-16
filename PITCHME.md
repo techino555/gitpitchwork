@@ -89,7 +89,7 @@ color:lavender;">枠内の色々</div>
 <img src="/images/testset2.gif" width=75%>そ
 ---
 
-！[/images/20180216_205902.jpg]
+！[](/images/20180216_205902.jpg)
 
 ---
 
