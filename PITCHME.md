@@ -6,14 +6,6 @@
 
 ---
 
-![Video](https://www.youtube.com/embed/CEuJfGvsSD8)
-
----
-
-![Video](https://www.youtube.com/embed/7_Pu7QGfJbg)
-
----
-
 **（お肉食べたい)@fa[thumbs-up]**
 
 **お刺身食べたい @fa[flash]**
