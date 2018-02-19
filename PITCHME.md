@@ -1,8 +1,6 @@
+---?image=assets/image/lukas_blazek.jpg
+
 # This is sample by hidenovuk
-
----
-
-![Video](https://www.youtube.com/embed/i65tQKPIWic)
 
 ---
 
@@ -16,7 +14,7 @@
 @fa[align-center]
 
 ---
-
+---?image=assets/image/ivan_televnyy.jpg
 
 #### 今日はお休み
 * gitpitch
