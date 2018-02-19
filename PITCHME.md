@@ -1,3 +1,4 @@
+---?image=templates-rain/assets/image/chuttersnap.jpg
 
 # This is sample by hidenovuk
 
@@ -88,5 +89,6 @@ color:lavender;">枠内の色々</div>
 <img src="/images/testset2.gif" width=80%>
 
 ---
+---?image=templates-rain/assets/image/chuttersnap.jpg
 
 # おわり<(--)>
