@@ -2,7 +2,8 @@ transition : convex
 charts : true
 footnote : "hidenovuk"
 published : true
-theme-override : assets/css/PITCHME.css
+theme : sky 
+# theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
-logo : assets/image/logo.png
+# logo : assets/image/logo.png
 background : assets/image/felicia_d_ascanio.jpg
