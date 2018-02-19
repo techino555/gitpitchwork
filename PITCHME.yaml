@@ -5,3 +5,6 @@ published : true
 theme : sky
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
+highlight : hybrid
+logo : assets/image/logo.png
+background : assets/image/felicia_d_ascanio.jpg
