@@ -3,7 +3,7 @@ charts : true
 footnote : "hidenovuk"
 published : true
 theme : sky 
-theme-override : templates-blue/assets/css/PITCHME.css
+theme-override : templates-space/assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 # logo : assets/image/logo.png
 # background : assets/image/felicia_d_ascanio.jpg
