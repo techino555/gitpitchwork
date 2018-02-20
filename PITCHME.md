@@ -1,5 +1,5 @@
 
-# This is sample by hidenovuk
+# This is sample
 
 ---
 
@@ -8,21 +8,14 @@
 **お刺身食べたい @fa[flash]**
 
 
-@fa[thumbs-up fa-lg]
-
-@fa[align-center]
-
 ---
 
 #### 今日はお休み
-* gitpitch
-* kubernetes
-* cut
-* dockor
 
-![sabori](/images/business_sabori_pc.png)
+* お肉
+* お刺身
 
----
+--- 
 
 I said 
 
@@ -61,31 +54,13 @@ color:lavender;">枠内の色々</div>
 ---
 
 - 12 
-- hey |
-- hoo |
-- boys and girls |
 - 24
 
 ---
 
-#### handlerだけのroleを書くことで他のroleから
-#### きれいにイベントを起動可能。
-
-|head1|head2|
-|:---:|:---:|
-|1|2|
-|3|4|
-
----
 # イカちゃん
 
-
 <img src="http://imgcc.naver.jp/kaze/mission_anm/USER/20161109/69/6182469/99/480x270x4405fd30e409c24e0bc6cc61.gif" width=80%>
----
-## screen to gif test
-
-
-<img src="/images/testset2.gif" width=80%>
 
 ---
 
