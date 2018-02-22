@@ -3,34 +3,34 @@
 
 ---
 
-**（お肉食べたい)@fa[thumbs-up]**
+強調分にアイコンを追加することができます。
+
+**お肉食べたい@fa[thumbs-up]**
 
 **お刺身食べたい @fa[flash]**
 
 
 ---
 
-#### 今日はお休み
+リスト表示ができます。
 
 * お肉
 * お刺身
 
---- 
+---
 
-I said 
+引用文も作成することができます。
+
+I said
 
 > I want eat pork
 > hope so chocolate too
 
-
-`echo beaf`
-
-<div style="border-style:solid; border-
-width:1px; padding:10px 5px 10px 20px; border-
-color:red; color:green; background-
-color:lavender;">枠内の色々</div>
-
 ---
+
+チャート表示することも可能。下記は公式のGitPitchのサンプルコードを  
+そのまま使用しています。
+
 <canvas data-chart="line">
 <!--
 {
@@ -53,15 +53,28 @@ color:lavender;">枠内の色々</div>
 </canvas>
 ---
 
-- 12 
-- 24
+順番に表示することも可能です。  
 
----
+- 野菜
+- お寿司
+- お肉
+- デザート
+- ( ^^) _旦~~  
 
-# イカちゃん
+また、スライドを下に移動させることもできます。
+@fa[arrow-circle-down fa-lg]
+
++++
+
+イメージのリンクを張ることも可能です。  
+
+# イカちゃん  
 
 <img src="http://imgcc.naver.jp/kaze/mission_anm/USER/20161109/69/6182469/99/480x270x4405fd30e409c24e0bc6cc61.gif" width=80%>
 
 ---
 
-# おわり<(--)>
+まだまだ色々な表現が可能なGitPitch.
+今後もまだまだ紹介していきます。
+
+# おわり<(＿ ＿)>
