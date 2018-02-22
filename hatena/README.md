@@ -1,4 +1,4 @@
-This repository is gitpitch practice for me.
+This repository is gitpitch introduction on my hatena blog.
 
-I challenge the gitpitch work on this repository.
-and will make presentetions for my future.
+このリポジトリははてなブログでGitPitchを
+紹介するために使用しています。
