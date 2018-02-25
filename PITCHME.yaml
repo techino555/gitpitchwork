@@ -2,8 +2,8 @@ transition : convex
 charts : true
 footnote : "hidenovuk"
 published : true
-theme : aqua
-theme-override : templates-sunkist/assets/css/PITCHME.css
+theme : beige
+# theme-override : templates-sunkist/assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 logo : assets/image/logo.png
 # background : assets/image/felicia_d_ascanio.jpg
