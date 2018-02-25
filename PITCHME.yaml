@@ -9,4 +9,4 @@ logo : assets/image/logo.png
 # background : assets/image/felicia_d_ascanio.jpg
 theme-override : templates-space/assets/css/PITCHME.css
 # theme-override : templates-space/assets/css/PITCHME.codemax.css
-# background : templates-space/assets/image/octavian-rosca.jpg
+background : templates-space/assets/image/octavian-rosca.jpg
