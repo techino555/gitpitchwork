@@ -2,11 +2,11 @@ transition : convex
 charts : true
 footnote : "hidenovuk"
 published : true
-theme : serif
+theme : black
 # theme-override : templates-sunkist/assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 logo : assets/image/logo.png
 # background : assets/image/felicia_d_ascanio.jpg
-# theme-override : templates-space/assets/css/PITCHME.css
+theme-override : templates-space/assets/css/PITCHME.css
 # theme-override : templates-space/assets/css/PITCHME.codemax.css
 # background : templates-space/assets/image/octavian-rosca.jpg
