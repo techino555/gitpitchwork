@@ -10,7 +10,8 @@ theme : moon
 # theme-override : templates-space/assets/css/PITCHME.css
 # theme-override : templates-space/assets/css/PITCHME.codemax.css
 # background : templates-space/assets/image/octavian-rosca.jpg
+theme-override : assets/css/PITCHME.css
 theme-override : templates-bullseye/assets/css/PITCHME.css
 background : templates-bullseye/assets/image/bullseye.svg
 background-size : cover
-# vertical-center : false
+vertical-center : false
