@@ -5,3 +5,7 @@
     margin-left: 0;
     margin-right: 0;
 }
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
