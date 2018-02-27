@@ -11,9 +11,3 @@
   border: 0;
   box-shadow: none; }
 
-.reveal .slides section .fragment.grow {
-  opacity: 1;
-  visibility: inherit; }
-  .reveal .slides section .fragment.grow.visible {
-    -webkit-transform: scale(1.3);
-            transform: scale(1.3); }
