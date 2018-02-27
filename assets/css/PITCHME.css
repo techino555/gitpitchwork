@@ -7,12 +7,6 @@
     margin-right: 0; }
 */
 
-html,
-body {
-  width: 85%;
-  height: 85%;
-  overflow: hidden; }
-
 .reveal section img {
   border: 0;
   box-shadow: none; }
