@@ -9,7 +9,7 @@
 **お肉食べたい@fa[thumbs-up]**   
 **お刺身食べたい @fa[flash]**
 
-すごく食べたい
+<p class="fragment shrink">すごく食べたい</p>
 
 ---
 
