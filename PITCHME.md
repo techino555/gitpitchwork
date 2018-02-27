@@ -9,7 +9,7 @@
 **お肉食べたい@fa[thumbs-up]**   
 **お刺身食べたい @fa[flash]**
 
-<p class="fragment grow2">すごく食べたい</p>
+<p class="zoom-in">すごく食べたい</p>
 
 ---
 
