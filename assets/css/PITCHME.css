@@ -10,3 +10,10 @@
 .reveal section img {
   border: 0;
   box-shadow: none; }
+
+.reveal .slides section .fragment.grow2 {
+  opacity: 1;
+  visibility: inherit; }
+  .reveal .slides section .fragment.grow.visible {
+    -webkit-transform: scale(2.0);
+            transform: scale(2.0); }
