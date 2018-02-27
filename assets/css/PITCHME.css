@@ -2,8 +2,8 @@
     text-align: left;
 }
 .reveal .slides {
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: 10;
+    margin-right: 10;
 }
 .reveal section img {
   border: 0;
