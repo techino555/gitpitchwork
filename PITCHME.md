@@ -10,6 +10,7 @@
 **お刺身食べたい @fa[flash]**
 
 <p class="fragment zoom-in">すごく食べたい</p>
+<p class="fragment grow"> もっと食べたい</p>
 
 ---
 
@@ -19,7 +20,31 @@
 * お肉
 * お刺身
 
+<p class="fragment shrink">お刺身はいいかも</p>
+<p class="fragment fade-out">また今度</p>
+<p class="fragment semi-fade-out">また明日</p>
+
 ---
+
+<p class="fragment strike">もっともっと</p>
+<p class="fragment fade-up">お肉お肉！</p>
+<p class="fragment fade-down">お野菜お野菜！</p>
+<p class="fragment fade-right">あ、右</p>
+<p class="fragment fade-left">今度は左</p>
+<p class="fragment current-visible">なんと</p>
+
+---
+
+<p class="fragment highlight-red">もっともっと</p>
+<p class="fragment highlight-current-red">もっともっと</p>
+<p class="fragment highlight-green">もっともっと</p>
+<p class="fragment highlight-current-green">もっともっと</p>
+<p class="fragment highlight-blue">もっともっと</p>
+<p class="fragment highlight-current-blue">もっともっと</p>
+
+
+---
+
 
 引用文も作成することができます。
 </br>
