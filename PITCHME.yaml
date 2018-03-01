@@ -15,3 +15,4 @@ theme-override : assets/css/PITCHME.css
 background : templates-bullseye/assets/image/bullseye.svg
 background-size : cover
 # vertical-center : false
+autoslide : 7000
