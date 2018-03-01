@@ -13,7 +13,7 @@
 <p class="fragment grow"> もっと食べたい</p>
 
 ---
-
+<!-- .slide: data-autoslide="7000" -->
 リスト表示ができます。
 </br>
 </br>
