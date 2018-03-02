@@ -39,7 +39,7 @@
 <p class="fragment current-visible">なんと</p>
 
 ---
-<!-- .slide: data-background-transition=zoom -->
+<!-- .slide: data-transition=fade -->
 <p class="fragment highlight-red">もっともっと</p>
 <p class="fragment highlight-current-red">もっともっと</p>
 <p class="fragment highlight-green">もっともっと</p>
@@ -49,7 +49,7 @@
 
 
 ---
-<!-- .slide: ddata-background-transition=zoom -->
+<!-- .slide: data-transition=fade -->
 引用文も作成することができます。
 </br>
 </br>
