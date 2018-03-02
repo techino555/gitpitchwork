@@ -39,7 +39,7 @@
 <p class="fragment current-visible">なんと</p>
 
 ---
-
+<!-- .slide: data-transition-speed="fast" -->
 <p class="fragment highlight-red">もっともっと</p>
 <p class="fragment highlight-current-red">もっともっと</p>
 <p class="fragment highlight-green">もっともっと</p>
@@ -49,8 +49,7 @@
 
 
 ---
-
-
+<!-- .slide: data-transition-speed="fast" -->
 引用文も作成することができます。
 </br>
 </br>
