@@ -12,9 +12,9 @@
 <p class="fragment zoom-in">すごく食べたい</p>
 <p class="fragment grow"> もっと食べたい</p>
 
----?include=practice/les1/PITCHME.md
+---?include=practice/les1/yakiniku.md
 
----?include=practice/les2/PITCHME.md
+---?include=practice/les2/hidari.md
 
 ---
 <!-- .slide: data-autoslide="5000" -->
