@@ -1,4 +1,4 @@
-
+<!-- .slide: data-autoslide="3000" -->
 # This is sample
 
 ---
