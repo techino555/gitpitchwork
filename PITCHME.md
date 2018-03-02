@@ -50,6 +50,7 @@
 
 ---
 <!-- .slide: data-background-transition="convex" -->
+<!-- .slide: data-transition-speed="slow" -->
 引用文も作成することができます。
 </br>
 </br>
