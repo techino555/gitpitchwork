@@ -1,9 +1,10 @@
 
 # This is sample
 
-<body>
-<audio src="emerald.mp3" controls autoplay></audio>
-</body>
+<audio controls>
+ <source src="emerald.mp3" type="audio/mp3">
+</audio>
+
 
 ---
 
