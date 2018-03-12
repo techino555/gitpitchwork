@@ -1,7 +1,7 @@
 <!-- .slide: data-autoslide="3000" -->
 # This is sample
 
-<audio src="/assets/Over_the_Horizon.mp3"></audio>
+<audio src="assets/Over_the_Horizon.mp3"></audio>
 
 ---
 
