@@ -5,17 +5,30 @@
  <source src="手足・殴る、蹴る10.mp3" type="audio/mp3">
 </audio>
 
-
 ---
 
-強調文の作成、アイコンの追加ができます。
-</br>
-</br>
-**お肉食べたい@fa[thumbs-up]**   
-**お刺身食べたい @fa[flash]**
-
-<p class="fragment zoom-in">すごく食べたい</p>
-<p class="fragment grow"> もっと食べたい</p>
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr class="fragment">
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
 
 ---?include=practice/les1/yakiniku.md
 
