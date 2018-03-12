@@ -1,7 +1,7 @@
 
 # This is sample
 
-<audio src="assets/emerald.mp3" autoplay></audio>
+<audio src="emerald.mp3"></audio>
 
 ---
 
