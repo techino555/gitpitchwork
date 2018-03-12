@@ -3,6 +3,7 @@ charts : true
 footnote : "hidenovuk"
 published : true
 theme : moon
+raw : false
 # theme-override : templates-sunkist/assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 # logo : assets/image/logo.png
