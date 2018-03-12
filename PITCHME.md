@@ -1,10 +1,6 @@
 
 # This is sample
 
-<audio controls>
- <source src="手足・殴る、蹴る10.mp3" type="audio/mp3">
-</audio>
-
 ---
 
 <table>
@@ -33,8 +29,6 @@
 ---?include=practice/les1/yakiniku.md
 
 ---?include=practice/les2/hidari.md
-
----?image=assets/PITCHME.html
 
 ---
 <!-- .slide: data-autoslide="5000" -->
