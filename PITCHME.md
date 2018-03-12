@@ -34,7 +34,7 @@
 
 ---?include=practice/les2/hidari.md
 
----?include=assets/PITCHME.html
+---?html=assets/PITCHME.html
 
 ---
 <!-- .slide: data-autoslide="5000" -->
