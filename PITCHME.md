@@ -1,6 +1,8 @@
 <!-- .slide: data-autoslide="3000" -->
 # This is sample
 
+<audio src=/assets/Over_the_Horizon.mp3></audio>
+
 ---
 
 強調文の作成、アイコンの追加ができます。
