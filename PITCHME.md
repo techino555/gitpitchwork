@@ -69,7 +69,9 @@
 </br>
 </br>
 I said  
-> I want eat pork and chocolate too
+> I want eat pork and chocolate too.
+</br>
+@quote[her too.]
 
 ---
 
