@@ -69,8 +69,7 @@
 </br>
 </br>
 I said  
-> I want eat pork
-> and chocolate too
+> I want eat pork and chocolate too
 
 ---
 
@@ -106,6 +105,7 @@ I said
 - お肉 |
 - デザート |
 - ( ^^) ＿旦~~ |
+- コーヒー
 </br>
 </br>
 スライドを下に移動させることもできます。
@@ -127,4 +127,5 @@ I said
 紹介していきたいと思います。
 </br>
 </br>
-おわり<(＿ ＿)>
+おわり<(＿ ＿)
+>
